@@ -2,13 +2,13 @@
   "name": "simple-ngx-mathjax",
   "version": "1.0.0",
   "description": "A quick way to implement Mathjax v3 into your Angular project! Upgradtion of mathjax-angular by @sajivkumar",
-  "homepage": "https://github.com/sajivkumar/mathjax-angular/blob/main/README.md",
+  "homepage": "https://github.com/StackProTech/simple-ngx-mathjax/blob/main/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sajivkumar/mathjax-angular.git"
+    "url": "https://github.com/StackProTech/simple-ngx-mathjax.git"
   },
   "bugs": {
-    "url": "https://github.com/sajivkumar/mathjax-angular/issues"
+    "url": "https://github.com/StackProTech/simple-ngx-mathjax/issues"
   },
   "license": "MIT",
   "peerDependencies": {
@@ -19,9 +19,9 @@
     "tslib": "^2.2.0"
   },
   "author": {
-    "name": "Sajiv Kumar Velayudhan",
-    "email": "sajeevkumar@gmail.com",
-    "url": "https://www.linkedin.com/in/sajivkumar"
+    "name": "StackProTech",
+    "email": "admin@stackpro.in"
+  
   },
   "keywords": [
     "angular",
