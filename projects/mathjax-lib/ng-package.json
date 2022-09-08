@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../dist/mathjax-lib",
+  "dest": "../../node_modules/simple-ngx-mathjax",
   "lib": {
     "entryFile": "src/public-api.ts"
   }

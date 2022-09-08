@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "mathjax-lib": {
+    "simple-ngx-mathjax": {
       "projectType": "library",
       "root": "projects/mathjax-lib",
       "sourceRoot": "projects/mathjax-lib/src",
